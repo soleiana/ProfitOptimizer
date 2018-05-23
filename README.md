@@ -1,6 +1,6 @@
 # ProfitOptimizer
 
-Trading
+#Trading
 
 Once there was some trade on Timboektoe, but it ended after a short time. After reading this story
 you will understand why. At that time Timboektoe was quite popular, because it was the only place
@@ -40,18 +40,14 @@ smallest.
 Display a blank line between test cases.
 Example input
 1
-----------
 6 12 3 10 7 16 5
 2
-----------
 5 7 3 11 9 10
 9 1 2 3 4 10 16 10 4 16
 0
 
 Example output
-
 schuurs 1
-
 Maximum profit is 8.
 Number of fluts to buy: 4
 
