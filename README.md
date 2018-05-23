@@ -1,6 +1,6 @@
 # ProfitOptimizer
 
-#Trading
+Trading
 
 Once there was some trade on Timboektoe, but it ended after a short time. After reading this story
 you will understand why. At that time Timboektoe was quite popular, because it was the only place
@@ -26,31 +26,34 @@ In this problem, you are given the description of several schuur piles. You have
 maximum profit a merchant can obtain by buying fluts from the piles according to the restrictions
 given above. In addition, you have to determine the number of fluts he has to buy to achieve this
 profit.
+
 The input describes several test cases. The first line of input for each test case contains a single
 integer Z, the number of schuurs in the test case. This is followed by Z lines, each describing a pile
 of fluts. The first number in each line is the number E of boxes in the pile. Following it are E
 positive integers, indicating the prices (in florins) of the fluts in the stack, given from top to bottom.
 The input is terminated by a description starting with Z = 0. This description should not be
 processed.
+
 For each test case, print the case number (1, 2, …). Then print two lines, the first containing the
 maximum profit the merchant can achieve. The second line should specify the number of fluts the
 merchant has to buy to obtain this profit. If this number is not uniquely determined, print the
 possible values in increasing order. If there are more than ten possible values, print only the 10
 smallest.
 Display a blank line between test cases.
-Example input
-1
-6 12 3 10 7 16 5
-2
-5 7 3 11 9 10
-9 1 2 3 4 10 16 10 4 16
-0
 
-Example output
-schuurs 1
-Maximum profit is 8.
-Number of fluts to buy: 4
+Example input  
+1  
+6 12 3 10 7 16 5  
+2  
+5 7 3 11 9 10  
+9 1 2 3 4 10 16 10 4 16  
+0  
 
-schuurs 2
-Maximum profit is 40.
+Example output  
+schuurs 1  
+Maximum profit is 8.  
+Number of fluts to buy: 4  
+
+schuurs 2  
+Maximum profit is 40.  
 Number of fluts to buy: 6 7 8 9 10 12 13
